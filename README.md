@@ -1,5 +1,8 @@
 # FinalYearApkFile
 
+## Test credentials
+Login: begzod123
+Password: begzod123
 ## Admin Panel built using PHP for registering managing students
 
 <img src="https://user-images.githubusercontent.com/73095425/232237227-f66f1db9-6c9f-42b8-a6d0-5ebb8d9ed2dc.png" width="600">
