@@ -1,13 +1,13 @@
 # FinalYearApkFile
 
-# Admin Panel built using PHP for registering managing students
+## Admin Panel built using PHP for registering managing students
 
 <img src="https://user-images.githubusercontent.com/73095425/232237227-f66f1db9-6c9f-42b8-a6d0-5ebb8d9ed2dc.png" width="600">
 <img src="https://user-images.githubusercontent.com/73095425/232237233-d844671f-5315-4a05-b2f9-c2bd95491304.png" width="600">
 <img src="https://user-images.githubusercontent.com/73095425/232237235-481b1b78-05dd-4dbb-91ce-861a23258e8e.png" width="600">
 <img src="https://user-images.githubusercontent.com/73095425/232237241-8d0c7f93-f1a4-4256-889b-ad8da1f37083.png" width="600">
 
-# Mobile application built using Kotlin
+## Mobile application built using Kotlin
 
 <img src="https://user-images.githubusercontent.com/73095425/232237242-06e675b1-3f7a-45cb-b70d-b6853f6bc5a6.png" width="300"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/73095425/232237262-ae248b88-58e7-4978-9a61-a0c3ec34f368.png" width="300">
 
