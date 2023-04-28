@@ -13,7 +13,7 @@ Password: begzod123
 
 
 ## Mobile application built using Kotlin
-<img src="https://user-images.githubusercontent.com/73095425/232237242-06e675b1-3f7a-45cb-b70d-b6853f6bc5a6.png" width="300"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/73095425/232237262-ae248b88-58e7-4978-9a61-a0c3ec34f368.png" width="300">
+<img src="https://user-images.githubusercontent.com/73095425/235113526-ca7bea4c-2a9c-4505-bce3-9bcc078cf320.png" width="300"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/73095425/235113590-2c6b88df-690a-407c-8412-61a6d550c61e.png" width="300">
 
 <img src="https://user-images.githubusercontent.com/73095425/232237263-1eb40b74-b750-4c63-beda-16787cba30a2.png" width="300"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/73095425/235112800-bb9fb018-5dc0-4b0f-bc22-a62124ef3b7c.png" width="300">
 
